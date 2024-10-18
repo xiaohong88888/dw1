@@ -1,1 +1,2 @@
-ECHO is on.
+lijn 1 
+lijn 2 
